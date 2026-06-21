@@ -44,12 +44,10 @@ Two distinct learning-analytics methods (per course requirement):
 .
 ├── README.md
 ├── notebook.ipynb        # full, end-to-end analysis pipeline
-├── paper/
-│   └── PAPER_Beyond_a_Single_Outcome.pdf
-└── figures/
-    ├── asw_vs_k.png
-    ├── fig1_outcome_composition.png
-    └── fig2_fingerprint.png
+├── paper.pdf                       # the compiled paper
+├── asw_vs_k.png                    # Figure 1 (ASW vs k)
+├── fig1_outcome_composition.png    # Figure 3 (outcome composition)
+└── fig2_fingerprint.png            # Figure 2 (behavioral fingerprint)
 ```
 
 ## Data access (the dataset is NOT included here)
